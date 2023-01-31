@@ -1,0 +1,452 @@
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/appsettings.Development.json
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/appsettings.json
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/Poetfolio.staticwebassets.runtime.json
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/Poetfolio
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/Poetfolio.deps.json
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/Poetfolio.runtimeconfig.json
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/Poetfolio.dll
+/Users/rahmelldili/Visual Projects/Portfolio/bin/Debug/net6.0/Poetfolio.pdb
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Poetfolio.MvcApplicationPartsAssemblyInfo.cache
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cache
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cs
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.Poetfolio.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.build.Poetfolio.props
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Poetfolio.props
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Poetfolio.props
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/staticwebassets.build.json
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/staticwebassets.development.json
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/scopedcss/bundle/Poetfolio.styles.css
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/scopedcss/projectbundle/Poetfolio.bundle.scp.css
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Poetfolio.dll
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/refint/Poetfolio.dll
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Poetfolio.pdb
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/Portfolio.genruntimeconfig.cache
+/Users/rahmelldili/Visual Projects/Portfolio/obj/Debug/net6.0/ref/Poetfolio.dll
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Poetfolio.MvcApplicationPartsAssemblyInfo.cache
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cache
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cs
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Poetfolio.dll
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/refint/Poetfolio.dll
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Poetfolio.pdb
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/appsettings.Development.json
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/appsettings.json
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Poetfolio.staticwebassets.runtime.json
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Poetfolio
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Poetfolio.deps.json
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Poetfolio.runtimeconfig.json
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Poetfolio.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Poetfolio.pdb
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.Poetfolio.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.build.Poetfolio.props
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Poetfolio.props
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Poetfolio.props
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/staticwebassets.build.json
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/staticwebassets.development.json
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/scopedcss/bundle/Poetfolio.styles.css
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/scopedcss/projectbundle/Poetfolio.bundle.scp.css
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CopyComplete
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/Portfolio.genruntimeconfig.cache
+/Users/rahmelldili/Portfolio/obj/Debug/net6.0/ref/Poetfolio.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Humanizer.dll
+/Users/rahmelldili/Portfolio/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Poetfolio.MvcApplicationPartsAssemblyInfo.cache
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cache
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cs
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/appsettings.Development.json
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/appsettings.json
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Poetfolio.staticwebassets.runtime.json
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Poetfolio
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Poetfolio.deps.json
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Poetfolio.runtimeconfig.json
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Poetfolio.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Poetfolio.pdb
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.Poetfolio.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.build.Poetfolio.props
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Poetfolio.props
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Poetfolio.props
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/staticwebassets.build.json
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/staticwebassets.development.json
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/scopedcss/bundle/Poetfolio.styles.css
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/scopedcss/projectbundle/Poetfolio.bundle.scp.css
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CopyComplete
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Poetfolio.dll
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/refint/Poetfolio.dll
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Poetfolio.pdb
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Portfolio.genruntimeconfig.cache
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/ref/Poetfolio.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/netstandard.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Console.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Core.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Data.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Text.Json.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Web.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahmelldili/My Projects/Portfolio/obj/Debug/net6.0/Poetfolio.MvcApplicationPartsAssemblyInfo.cs
